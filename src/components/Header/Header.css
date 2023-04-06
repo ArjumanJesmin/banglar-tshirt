@@ -1,0 +1,13 @@
+nav a{
+    text-decoration: none;
+    margin: 10px;
+    background-color: blanchedalmond;
+    padding: 10px;
+    border-radius: 8px;
+    color: blueviolet;
+    font-size: 20px;
+}
+nav a:hover{
+    background-color: rgb(226, 182, 116);
+    color:rgb(33, 36, 226);
+}
